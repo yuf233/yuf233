@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/2024/08/07/43/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>hexo功能测试(密码：soyo)</title>
     <url>/2024/08/09/53/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="f1cfe686e2e5be097e8d23fedcb3ca6e939aacf3194361ea2086784d2d12e2ab">9142e7a7774644f86c90653180e309c1324bf48bce5ffe3ddf8ae06b9b1318cd1071d3439ab3f7039a3e95ed3b3aaffdd85ea4a061a8884361edf4510896717fd1931184108bd78ed08ef715301d685c04387779c1b9018ee0924944a0890f2218ec5679e12c3d488ffe5f69bc17c7431ec4b50feb4a9b53299c2801a8ec6752d3c446fcfefe104367f61e5f758e6255c6218bbdd1eab5a400c218c3a2db27a9c99bb102f234ef3fdc0bbbb5c989d8c45b6fa5f9ed799d56dcdc4dd9075bcc3b87147cfd1d928fd2e07a057750ee5d5e7b6357d962da39a85c649c6e1b69745a7a465c4d59bee1bf9fd445be35399dbd6030096c1234bae777525c686748843d73ac0ff0f32912fc362e79b0d68cc750733ec62f423d9744ba9374835c5babd465ccb170e54c6b660ab2e4a3140d8b51066964c32032d2bc7a42879c8de8a10d</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="8a7acb013d9edd322adba25dbad67d8dbea32013c249172bbadde27109980d95">9142e7a7774644f86c90653180e309c1324bf48bce5ffe3ddf8ae06b9b1318cd1071d3439ab3f7039a3e95ed3b3aaffdd85ea4a061a8884361edf4510896717fd1931184108bd78ed08ef715301d685c04387779c1b9018ee0924944a0890f2218ec5679e12c3d488ffe5f69bc17c7431ec4b50feb4a9b53299c2801a8ec6752d3c446fcfefe104367f61e5f758e6255c6218bbdd1eab5a400c218c3a2db27a9c99bb102f234ef3fdc0bbbb5c989d8c45b6fa5f9ed799d56dcdc4dd9075bcc3b87147cfd1d928fd2e07a057750ee5d5e77c32c5a4a276e2034411b814d6c7ef4e9f41c1babcb5fc88a24fbeaf9bea4c9</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -19,7 +37,7 @@
   <entry>
     <title>markdown测试</title>
     <url>/2024/08/08/00/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><em>你好</em></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><em>你好</em></p>
 <p><strong>Hello</strong></p>
 <blockquote class="blockquote-center">
             <i class="fa fa-quote-left"></i>
@@ -30,27 +48,25 @@
 ]]></content>
   </entry>
   <entry>
-    <title>这是一个空白文章</title>
-    <url>/2024/08/07/57/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>这是一个空白文章</p>
-]]></content>
+    <title>必看文章</title>
+    <url>/2024/08/12/51/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="e1e41fe70014e01bd5a024dd19bfcc0ed8a713ef3233f59e7bfa0b427247bd20">f58899b0fc0bf072050b0fd9c765ce3dbd4bbc4061e05da827685a75e49886a42ef9807107477aa3acfa29d180fec1f595db84426500b66e361d01888b8d3aae3faedbc25d95c8a85d8f6e826d85babc61729b04c2fdce7c8f2e542a6ac887279809f11e283d45d88fd51601bea8c943b819a2942c28027c8aa5684defcb350b3cbb20fa95e2ac17c344942b43de213481ae086f20624fb7bee7e79e6b0d2fb49d138709dd320323bb78deea7b48f6ff7e1758016ccb4aaa2252f76d33cc4f15719943971eb565b4f637c5c67b26de6e8a33a32e55324bb4c788eae1c0917a33b8155d659fff0220e93b1bd87e25273bfff4ff278202da912c3c47a43d60eab3341c44fab6f8dcd56279f1ac89a74765943921d4e9bc11b60f482dcbd301ac991b6d82b85321d6d60ba07f945c48604bff4c0e3bfb9538d5ec5125e0deae034af5f309322ae8144a2fcb06a53e7802d7772c382cf89f55908b5bb871b266a1abcb3033127f83ee33855bdf297db35a725626dbaf00e4af2b1df9d562bcbe980164c0fe20fbae9e391a608b13213831e75da347ee7567744bcc09f539b7e2bac3b131e61051901c04eda0a69ed8c5c6ef82c40eb708f5db0f6c6ef7b74545c16be6fa0ab1ca8c7c5de6a5063cd10714b503673dccf41c5b26b184dced08d859821dbd1d3c6f48f5994df6f74ee4aeaeb37062af37a4f4d2bec49a40e7110bd1d99d1fcc3526f78e5d467ba8cd7f5a6501bf244649c176de41877eea3db0bbb6fef3d90d9673f64436d5128f85f7ca8be1f6ea16cd8e3c359e1ee67c2d7c4a25a4216f950534d1a6a7d685451cba8d3863ba0cdb51b2a0c64662cd9a4bdb8dab16c44a775f4189954185f420dc70d47368395f7ea613ed0359ab5012907fd529f35535c2c5bcee819ac072b850306d8cd18573e527f0c254cfa7852ba3640a849bd4952c71c6d514af5ecfdf7b8766bb7aa3904a4c2ca174e7de1330d56d90dab747f4137ebef4e28ea4ed4c3803506fc964ebbaa6ade65a78bdbf81215f9bd0f12267258140c09108e2f43dab4b2747f837c8f6d7fb5545aab9c257050c11bf0928a43aeb4f449f5e6bcb932f34a684eea69662bd3fdf1bad68c86d6d2ebaba9767fb902c5e0685a08f74c1a552545338</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2024/08/07/43/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>这是一个空白文章</title>
+    <url>/2024/08/07/57/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这是一个空白文章</p>
 ]]></content>
   </entry>
 </search>
