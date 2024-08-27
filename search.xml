@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>hexo功能测试(密码：soyo)</title>
+    <url>/2024/08/09/53/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="8a7acb013d9edd322adba25dbad67d8dbea32013c249172bbadde27109980d95">9142e7a7774644f86c90653180e309c1324bf48bce5ffe3ddf8ae06b9b1318cd1071d3439ab3f7039a3e95ed3b3aaffdd85ea4a061a8884361edf4510896717fd1931184108bd78ed08ef715301d685c04387779c1b9018ee0924944a0890f2218ec5679e12c3d488ffe5f69bc17c7431ec4b50feb4a9b53299c2801a8ec6752d3c446fcfefe104367f61e5f758e6255c6218bbdd1eab5a400c218c3a2db27a9c99bb102f234ef3fdc0bbbb5c989d8c45b6fa5f9ed799d56dcdc4dd9075bcc3b87147cfd1d928fd2e07a057750ee5d5e77c32c5a4a276e2034411b814d6c7ef4e9f41c1babcb5fc88a24fbeaf9bea4c9</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hexo博客搭建教程及一些常见问题（未完成）</title>
+    <url>/2024/08/27/02/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="一、准备工作"><a href="#一、准备工作" class="headerlink" title="一、准备工作"></a>一、准备工作</h3><p>（待补充）</p>
+<h3 id="二、配置主题"><a href="#二、配置主题" class="headerlink" title="二、配置主题"></a>二、配置主题</h3><p>（待补充）</p>
+<h3 id="三、美化主题"><a href="#三、美化主题" class="headerlink" title="三、美化主题"></a>三、美化主题</h3><p>（待补充）</p>
+<h3 id="四、常见问题"><a href="#四、常见问题" class="headerlink" title="四、常见问题"></a>四、常见问题</h3><h3 id="一、yaml格式"><a href="#一、yaml格式" class="headerlink" title="一、yaml格式"></a>一、yaml格式</h3><p>​      yaml的格式要求还是比较严格的，如果看到了报错提示指向<strong>冒号</strong>，则可能是中文英文冒号打错了或是冒号后面没有空格（不管有没有定义内容）（当然也可能是上下行的问题，虽然有报错指示，但有时会指错）（问就是血的教训）</p>
+]]></content>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2024/08/07/43/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -17,22 +48,9 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>hexo功能测试(密码：soyo)</title>
-    <url>/2024/08/09/53/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="8a7acb013d9edd322adba25dbad67d8dbea32013c249172bbadde27109980d95">9142e7a7774644f86c90653180e309c1324bf48bce5ffe3ddf8ae06b9b1318cd1071d3439ab3f7039a3e95ed3b3aaffdd85ea4a061a8884361edf4510896717fd1931184108bd78ed08ef715301d685c04387779c1b9018ee0924944a0890f2218ec5679e12c3d488ffe5f69bc17c7431ec4b50feb4a9b53299c2801a8ec6752d3c446fcfefe104367f61e5f758e6255c6218bbdd1eab5a400c218c3a2db27a9c99bb102f234ef3fdc0bbbb5c989d8c45b6fa5f9ed799d56dcdc4dd9075bcc3b87147cfd1d928fd2e07a057750ee5d5e77c32c5a4a276e2034411b814d6c7ef4e9f41c1babcb5fc88a24fbeaf9bea4c9</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <tags>
+        <tag>测试</tag>
+      </tags>
   </entry>
   <entry>
     <title>markdown测试</title>
@@ -46,6 +64,9 @@
             <i class="fa fa-quote-right"></i>
           </blockquote>
 ]]></content>
+      <tags>
+        <tag>测试</tag>
+      </tags>
   </entry>
   <entry>
     <title>从盗版网站到家庭影院————个人看番实践（未完成）</title>
@@ -62,12 +83,9 @@
   </div>
 </div>
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-  </entry>
-  <entry>
-    <title>这是一个空白文章</title>
-    <url>/2024/08/07/57/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这是一个空白文章</p>
-]]></content>
+      <tags>
+        <tag>教程</tag>
+      </tags>
   </entry>
   <entry>
     <title>必看文章</title>
@@ -84,5 +102,8 @@
   </div>
 </div>
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <tags>
+        <tag>学习</tag>
+      </tags>
   </entry>
 </search>
